@@ -1,0 +1,9 @@
+c:\users\areku\documents\visual studio 2015\Projects\KursOVA\KursOVA\bin\Debug\KursOVA.exe.config
+c:\users\areku\documents\visual studio 2015\Projects\KursOVA\KursOVA\bin\Debug\KursOVA.exe
+c:\users\areku\documents\visual studio 2015\Projects\KursOVA\KursOVA\bin\Debug\KursOVA.pdb
+c:\users\areku\documents\visual studio 2015\Projects\KursOVA\KursOVA\obj\Debug\KursOVA.csprojResolveAssemblyReference.cache
+c:\users\areku\documents\visual studio 2015\Projects\KursOVA\KursOVA\obj\Debug\KursOVA.Form1.resources
+c:\users\areku\documents\visual studio 2015\Projects\KursOVA\KursOVA\obj\Debug\KursOVA.Properties.Resources.resources
+c:\users\areku\documents\visual studio 2015\Projects\KursOVA\KursOVA\obj\Debug\KursOVA.csproj.GenerateResource.Cache
+c:\users\areku\documents\visual studio 2015\Projects\KursOVA\KursOVA\obj\Debug\KursOVA.exe
+c:\users\areku\documents\visual studio 2015\Projects\KursOVA\KursOVA\obj\Debug\KursOVA.pdb
